@@ -24,6 +24,7 @@
         <module>samples</module>
         <module>sdk</module>
       </modules>
+      </modules>
     </profile>
     <profile>
       <id>mac</id>
